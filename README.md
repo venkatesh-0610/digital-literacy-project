@@ -36,7 +36,7 @@ Focused on building robust professional branding by creating and optimizing prof
 
 To interactively assess digital awareness, I successfully designed and developed a dynamic Digital Literacy Awareness Quiz utilizing Google Forms. This included formulating targeted questions centering on cyber hygiene and the practical usage of digital tools. Furthermore, I integrated Google Sheets to collect, seamlessly organize, and analyze the respondent data, gaining hands-on experience in fundamental data collection, analytics, and collaborative cloud platform capabilities.
 
-🔗 Google Form Link: [Paste Your Google Form Link Here]
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSciiv5-fqK89mR0Eye4vV964HNOcGEODGoHly6lMiyZLtxBZA/viewform?usp=publish-editor
 
 ### 🔹 Task 4 – Email Etiquette
 
